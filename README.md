@@ -1,7 +1,7 @@
-# Student Marks Prediction
+# Student's Marks Prediction
 This project focuses on predicting student marks using sophisticated data science techniques and machine learning algorithms. It ensures high accuracy and reliability through meticulous data handling and advanced modeling approaches.
 
-https://github.com/sharmaanchita/Stud_marks_prediction/assets/107151636/d2270770-e6d9-4119-8546-d32cc1460c29
+https://github.com/sharmaanchita/Stud_marks_prediction/assets/107151636/fdfe6522-87c8-4fa1-97b6-df50746638b3
 
 ## Features
 1. Missing Imputation
