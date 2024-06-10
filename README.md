@@ -21,23 +21,24 @@ https://github.com/sharmaanchita/Stud_marks_prediction/assets/107151636/d2270770
 git clone https://github.com/sharmaanchita/Stud_marks_prediction.git
 ```
 ### 2. Activate environment
-    ```
+```
     conda activate venv/
-    ```
+```
 ### 3. Delete artifacts folder
 
 ### 4. Install dependencies
-    ```
+```bash
     pip install -r requirements.txt
-    ```
+```
   If this gives error, try:
-    ```
+```bash
     pip install -r requirements.txt --user
-    ```
-###5 Run code
-    ```
+```
+
+### 5. Run code
+```
     python app.py
-    ```
+```
 ____
 
 If you face any issues during the setup or have any queries regarding the project, feel free to [reach out to me](www.linkedin.com/in/anchita-sharmaa). Happy to help!
